@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.demo.microservices</groupId>
+        <artifactId>microservices-monorepo</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>inventory</artifactId>
+    <packaging>jar</packaging>
+    <name>Inventory Management Service</name>
+    <description>Manages product inventory and stock levels.</description>
+
+</project>

@@ -1,0 +1,21 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: payment_route
+          uri: http://localhost:8084
+          predicates:
+            - Path=/api/v1/payment/**
+
+        - id: inventory_route
+          uri: http://localhost:8083
+          predicates:
+            - Path=/api/v1/inventory/**
+
+# -- Ip-based filter
+app:
+   ip-filter:
+     allowed-ips:
+          - "127.0.0.1"
+          - "::1"
+          - "192.168.1.10"

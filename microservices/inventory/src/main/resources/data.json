@@ -1,0 +1,182 @@
+[
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "EL-KB-001",
+    "name": "Tactile Mechanical Keyboard",
+    "description": "Premium 104-key board with brown switches.",
+    "price": 12599,
+    "currency": "INR",
+    "quantity": 85
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "AP-TS-045",
+    "name": "Vintage Washed T-Shirt",
+    "description": "100% cotton casual wear, distressed black.",
+    "price": 3550,
+    "currency": "INR",
+    "quantity": 4
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "SW-LIC-101",
+    "name": "Creative Suite Annual License",
+    "description": "Professional graphic design software subscription.",
+    "price": 29999,
+    "currency": "INR",
+    "quantity": 500
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "BK-NF-022",
+    "name": "Cosmic Drift Trilogy Set",
+    "description": "Hardcover sci-fi novel collection.",
+    "price": 4500,
+    "currency": "INR",
+    "quantity": 120
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "EL-MS-007",
+    "name": "Ergonomic Wireless Mouse",
+    "description": "Vertical mouse with six programmable buttons.",
+    "price": 5999,
+    "currency": "INR",
+    "quantity": 150
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "AP-HD-310",
+    "name": "Hooded Rain Jacket",
+    "description": "Waterproof lightweight nylon jacket, forest green.",
+    "price": 7500,
+    "currency": "INR",
+    "quantity": 28
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "SW-SVC-550",
+    "name": "Cloud Storage 1TB (Monthly)",
+    "description": "Recurring subscription for data storage.",
+    "price": 499,
+    "currency": "INR",
+    "quantity": 9999
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "BK-COOK-115",
+    "name": "Artisan Bread Cookbook",
+    "description": "Guide to making sourdough and rustic loaves.",
+    "price": 1950,
+    "currency": "INR",
+    "quantity": 0
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "TO-SP-900",
+    "name": "Smart Water Bottle",
+    "description": "Tracks hydration and glows to remind you to drink.",
+    "price": 4990,
+    "currency": "INR",
+    "quantity": 11
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "EL-ADPT-003",
+    "name": "USB-C to HDMI Adapter",
+    "description": "4K 60Hz video adapter.",
+    "price": 1800,
+    "currency": "INR",
+    "quantity": 350
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "AP-JEAN-880",
+    "name": "Slim Fit Denim Jeans",
+    "description": "Dark wash, stretch denim, men's sizes.",
+    "price": 4200,
+    "currency": "INR",
+    "quantity": 15
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "SW-SEC-777",
+    "name": "VPN Service (Yearly)",
+    "description": "Subscription for secure internet access.",
+    "price": 12900,
+    "currency": "INR",
+    "quantity": 3000
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "BK-BUS-001",
+    "name": "The Lean Startup",
+    "description": "Bestselling book on modern business development.",
+    "price": 850,
+    "currency": "INR",
+    "quantity": 250
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "TO-KIT-100",
+    "name": "DIY Robotics Kit",
+    "description": "Beginner level kit with sensors and micro-controller.",
+    "price": 8999,
+    "currency": "INR",
+    "quantity": 7
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "EL-CAM-200",
+    "name": "4K Action Camera",
+    "description": "Waterproof camera for adventure sports.",
+    "price": 19999,
+    "currency": "INR",
+    "quantity": 1
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "AP-SHOE-500",
+    "name": "Running Shoes",
+    "description": "Lightweight mesh shoes for long distance running.",
+    "price": 6800,
+    "currency": "INR",
+    "quantity": 45
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "TO-MUG-005",
+    "name": "Ceramic Travel Mug",
+    "description": "Insulated mug with secure lid, 16oz.",
+    "price": 1500,
+    "currency": "INR",
+    "quantity": 210
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "EL-BAT-099",
+    "name": "Portable Power Bank",
+    "description": "20,000mAh battery capacity, quick charging.",
+    "price": 3299,
+    "currency": "INR",
+    "quantity": 3
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "AP-GLOVE-700",
+    "name": "Leather Driving Gloves",
+    "description": "Perforated leather, snap closure.",
+    "price": 5100,
+    "currency": "INR",
+    "quantity": 18
+  },
+  {
+    "_class": "com.demo.microservices.model.Product",
+    "sku": "BK-FIN-404",
+    "name": "Personal Finance Guide",
+    "description": "Beginner's guide to saving and investing.",
+    "price": 1100,
+    "currency": "INR",
+    "quantity": 0
+  }
+]
