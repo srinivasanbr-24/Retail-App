@@ -1,4 +1,4 @@
-package com.demo.microservices.utility;
+package com.demo.microservices.utils;
 
 public enum InventoryDeductionStatus {
     DEDUCTION_COMMITTED("DEDUCTION_COMMITTED"),

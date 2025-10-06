@@ -1,13 +1,12 @@
 package com.demo.microservices.service.impl;
 
-import com.demo.microservices.dto.DeductErrorResponse;
 import com.demo.microservices.dto.DeductRequest;
 import com.demo.microservices.dto.DeductSuccess;
 import com.demo.microservices.exception.InsufficientStockException;
 import com.demo.microservices.model.Product;
 import com.demo.microservices.repository.InventoryRepository;
 import com.demo.microservices.service.InventoryService;
-import com.demo.microservices.utility.InventoryDeductionStatus;
+import com.demo.microservices.utils.InventoryDeductionStatus;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -2,7 +2,7 @@ package com.demo.microservices.exception;
 
 
 import com.demo.microservices.dto.DeductErrorResponse;
-import com.demo.microservices.utility.InventoryDeductionStatus;
+import com.demo.microservices.utils.InventoryDeductionStatus;
 import lombok.Getter;
 
 @Getter
