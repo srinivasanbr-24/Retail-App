@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>gateway</artifactId>
+    <name>Api Gateway service</name>
 
     <dependencies>
         <dependency>
@@ -23,5 +24,19 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>-->
     </dependencies>
+
+    <build>
+        <finalName>gateway</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <classifier></classifier>
+                    <skipOriginalFile>true</skipOriginalFile>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

@@ -12,4 +12,17 @@
     <name>Inventory Management Service</name>
     <description>Manages product inventory and stock levels.</description>
 
+    <build>
+        <finalName>inventory</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <classifier></classifier>
+                    <skipOriginalFile>true</skipOriginalFile>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

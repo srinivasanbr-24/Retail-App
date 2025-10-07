@@ -23,5 +23,19 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <finalName>payment</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <classifier></classifier>
+                    <skipOriginalFile>true</skipOriginalFile>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
 
 </project>
